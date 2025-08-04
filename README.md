@@ -1,4 +1,3 @@
-# Nurition-Agent
 # 🥗 Nutrition Agent — AI-Powered Personalized Diet Assistant
 
 Welcome to **Nutrition Agent**, an IBM SkillsBuild project built with generative AI, NLP, and multimodal learning to deliver **adaptive, personalized meal plans** like never before. Think ChatGPT meets your personal dietician.
